@@ -4,3 +4,14 @@
 </h2>
 
 > **A specialized sandbox for architecting, monitoring, and automating Enterprise Active Directory ecosystems.**
+
+
+<br/>
+
+*Development milestones and completed modules*
+
+</div>
+
+| Project | Description | Status |
+| :--- | :--- | :---: |
+| **Monitoring Dashboard** | Lightweight, high-performance system for real-time Domain Controller health and state detection | `Maintenance` |
