@@ -15,3 +15,4 @@
 | Project | Description | Status |
 | :--- | :--- | :---: |
 | **Monitoring Dashboard** | Lightweight, high-performance system for real-time Domain Controller health and state detection | `Maintenance` |
+| **AD ISMS Audit** | Forest-wide read-only Active Directory audit tool for automated ISMS compliance assessment and reporting | `Development` |
